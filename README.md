@@ -25,7 +25,7 @@
 ![تفاصيل الفندق](https://raw.githubusercontent.com/AymanAlsharaei/STAY-IN/main/images/Screenshot-2023-11-09-014838.jpg)
 
 ### 🔹 صفحة الحجز
-![صفحة الحجز](https://raw.githubusercontent.com/AymanAlsharaei/STAY-IN/main/images/Screenshot-2023-11-09-023230.jpg)
+![صفحة الحجز](https://raw.githubusercontent.com/AymanAlsharaei/STAY-IN/main/Screenshot-2023-11-09-023230.jpg)
 
 ## 🛠️ التقنيات المستخدمة
 - **Front-end:** HTML, CSS, JavaScript, Bootstrap, jQuery, Ajax
