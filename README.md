@@ -11,7 +11,7 @@
 ✅ **إشعارات وتنبيهات** لتنبيه المستخدمين بشأن تأكيد الحجوزات أو العروض الجديدة.  
 
 ## 🖼️ صور من المشروع
-https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-08 061155.jpg
+https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-08 061155.jpg
 ### 🔹 الصفحة الرئيسية
 ![الصفحة الرئيسية](https://raw.githubusercontent.com/AymanAlsharaei/STAY-IN/main/images/Screenshot-2023-11-08-061155.jpg)
 
