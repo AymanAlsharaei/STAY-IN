@@ -11,22 +11,19 @@
 ✅ **إشعارات وتنبيهات** لتنبيه المستخدمين بشأن تأكيد الحجوزات أو العروض الجديدة.  
 
 ## 🖼️ صور من المشروع
-   <img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-08_061155.jpg" class="col"  >
-
-### 🔹 الصفحة الرئيسية
-![الصفحة الرئيسية](https://raw.githubusercontent.com/AymanAlsharaei/STAY-IN/main/images/Screenshot-2023-11-08-061155.jpg)
-
-### 🔹 صفحة تسجيل الدخول
-![صفحة تسجيل الدخول](https://raw.githubusercontent.com/AymanAlsharaei/STAY-IN/main/images/Screenshot-2023-11-08-061321.jpg)
-
-### 🔹 البحث عن الفنادق
-![البحث عن الفنادق](https://raw.githubusercontent.com/AymanAlsharaei/STAY-IN/main/images/Screenshot-2023-11-08-072647.jpg)
-
-### 🔹 تفاصيل الفندق
-![تفاصيل الفندق](https://raw.githubusercontent.com/AymanAlsharaei/STAY-IN/main/images/Screenshot-2023-11-09-014838.jpg)
-
-### 🔹 صفحة الحجز
-![صفحة الحجز](https://raw.githubusercontent.com/AymanAlsharaei/STAY-IN/main/Screenshot-2023-11-09-023230.jpg)
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-08_061155.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-08_061321.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-08_072647.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-09_014838.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-09_023230.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-09_023349.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-09_023415.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-09_023844.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-09_023950.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-09_024126.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-09_024327.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-09_024510.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-09_024605.jpg" class="col"  >
 
 ## 🛠️ التقنيات المستخدمة
 - **Front-end:** HTML, CSS, JavaScript, Bootstrap, jQuery, Ajax
@@ -38,6 +35,6 @@
 🟡 **قيد التطوير** - العمل مستمر على تحسين الميزات وإضافة وظائف جديدة.
 
 ## 📩 تواصل معي
-إذا كنت مهتمًا بالمشروع أو لديك أي استفسار، لا تتردد في التواصل:
+إذا كنت مهتمًا بالمشروع أو لديك أي استفسار، لا تتردد في التواصل:  
 📧 **البريد الإلكتروني:** [aimnabdoualshraei@gmail.com](mailto:aimnabdoualshraei@gmail.com)  
 🔗 **GitHub:** [AymanAlsharaei](https://github.com/AymanAlsharaei)
