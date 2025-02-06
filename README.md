@@ -64,6 +64,7 @@
 <img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-08_061155.jpg" class="col"  >
  
 
+ 
 ## 🛠️ التقنيات المستخدمة
 - **Front-end:** HTML, CSS, JavaScript, Bootstrap, jQuery, Ajax
 - **Back-end:** PHP, Laravel
