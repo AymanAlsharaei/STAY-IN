@@ -11,9 +11,10 @@
 ✅ **إشعارات وتنبيهات** لتنبيه المستخدمين بشأن تأكيد الحجوزات أو العروض الجديدة.  
 
 ## 🖼️ صور من المشروع
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 024636.jpg" class="col"  >
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 025243.jpg" class="col"  >
 <img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 035236.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 035359.jpg class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 035440.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 035540.jpg" class="col"  >
 
 
 <img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-08_061155.jpg" class="col"  >
