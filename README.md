@@ -40,23 +40,29 @@
 <img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 025108.jpg.jpg" class="col"  >
 <img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 024636.jpg" class="col"  >
 <img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 025243.jpg" class="col"  >
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 035236.jpg" class="col"  >
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 035359.jpg class="col"  >
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 035440.jpg" class="col"  >
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 035540.jpg" class="col"  >
 
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 024636.jpg" class="col"  >
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 024636.jpg" class="col"  >
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 024636.jpg" class="col"  >
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 024636.jpg" class="col"  >
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 024636.jpg" class="col"  >
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 024636.jpg" class="col"  >
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 024636.jpg" class="col"  >
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 024636.jpg" class="col"  >
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 024636.jpg" class="col"  >
-<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 024636.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 035630.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 035754.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 040038.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 040229.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 040332.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 040608.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 041432.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 042116.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 042431.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 042551.jpg" class="col"  >
 
 
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 044601.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 044647.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 044811.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-09 060507.jpg" class="col"  >
+
+
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-11-10 074934.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot 2023-12-02 020731.jpg" class="col"  >
+<img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-08_061155.jpg" class="col"  >
+ 
 
 ## 🛠️ التقنيات المستخدمة
 - **Front-end:** HTML, CSS, JavaScript, Bootstrap, jQuery, Ajax
