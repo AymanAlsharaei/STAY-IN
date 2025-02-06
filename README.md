@@ -12,6 +12,8 @@
 
 ## 🖼️ صور من المشروع
 (https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-08_061155.jpg)
+  <img src="https://github.com/AymanAlsharaei/STAY-IN/blob/main/Screenshot2023-11-08_061155.jpg" class="col" width="100px" height="100px">
+
 ### 🔹 الصفحة الرئيسية
 ![الصفحة الرئيسية](https://raw.githubusercontent.com/AymanAlsharaei/STAY-IN/main/images/Screenshot-2023-11-08-061155.jpg)
 
